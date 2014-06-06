@@ -1,0 +1,18 @@
+{
+  "name": "simple-express-crud",
+  "version": "0.0.1",
+  "author": "Kevin Blanco",
+  "description": "Simple CRUD with Node.js, MongoDB, Mongoose and Express Framework",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "repository": "git@github.com:kevinblanco/nodejs-express-crud.git",
+  "dependencies": {
+    "express": "~4.4.1",
+    "mongoose": "~3.8.12",
+    "body-parser": "~1.3.0",
+    "method-override": "~2.0.1",
+    "morgan": "~1.1.1"
+  }
+}
